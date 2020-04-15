@@ -42408,7 +42408,7 @@ $.b_=1
 $.a_8=H.b([0,0,0],u.t)
 $.a_9=H.b([0,0,0,0],u.t)
 $.a3e=H.b(["assets/image_04.jpg","assets/image_03.jpg","assets/image_02.jpg","assets/image_01.png"],u.s)
-$.a3I=H.b(["Hounted Ground","Fallen In Love","The Dreaming Moon","Jack the Persian and the Black Castel"],u.s)})();(function lazyInitializers(){var t=hunkHelpers.lazy
+$.a3I=H.b(["Hounted Ground","Os pinguins de Madagascar","Alladin","O Rei le\xe3o"],u.s)})();(function lazyInitializers(){var t=hunkHelpers.lazy
 t($,"a55","Yh",function(){return H.Vv(0,0,1)})
 t($,"a4u","XR",function(){return J.Y($.az.i(0,"PaintStyle"),"Stroke")})
 t($,"a4t","XQ",function(){return J.Y($.az.i(0,"PaintStyle"),"Fill")})
